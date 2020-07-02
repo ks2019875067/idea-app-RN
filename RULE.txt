@@ -1,0 +1,5 @@
+1. [category] - [simple message] , ... : 해당 [category] 사용과 [simple message]간단 설명
+2. [category]. bugfix : 버그 내용을 고침
+3. [category]. add : 내용을 추가
+4. [category]. edit : 코드 내용을 고침
+5. [category]. rm : 내용을 제거
