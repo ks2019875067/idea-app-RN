@@ -6,6 +6,7 @@ export default class IO extends React.Component {
     static input = (JSONdata) => {
         //key.DB = JSONdata; //input this JSON
         console.log("complete input"); //return complete-signal
+        console.log(JSONdata);
     };
     static delete = (key) => {
         //key.DB = null; // delete file
